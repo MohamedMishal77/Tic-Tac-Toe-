@@ -6,4 +6,5 @@ Tic Tac Toe game using python by implementing the concepts of functions.
                        3. The Game Ends in a **Draw**
 - The game also provides an option for the players to **terminate/quit** the game midway.
 - The game has several user defined functions which are used to make the game logic work properly as intended.
+- The game was coded based on a set of criteria provided , you can tinker the code as you wish.
 - Moreover , the development process helped me gain a clear understanding about functions.
